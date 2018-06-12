@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+
+  // Controls the font size in pixels.
+  "editor.fontSize": 19,
+}
